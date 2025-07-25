@@ -51,7 +51,7 @@ I love exploring new technologies, contributing to real-world projects, and impr
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/anshumanrana/](https://www.linkedin.com/in/anshuman-rana-9ab3631ab/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/anshumanrana/](https://www.linkedin.com/in/anshuman-rana-9ab3631ab/])
 
 
 ---
