@@ -1,27 +1,22 @@
-### Hey there! I'm [Anshuman Rana](https://github.com/AnshumanRana) 👋
+# 🚀 Syntactic – Modern Web Solutions for Growing Businesses
 
-## 🚀 Full Stack Developer | Freelancer | CSE Graduate (2024)
+Syntactic is a SaaS-based **web solutions** platform co-founded by [Anshuman Rana](https://github.com/AnshumanRana), built to help individuals and businesses grow their online presence, streamline operations, and ship production-ready web apps faster.[web:22]  
+This repository contains the source code for the Syntactic web application, including backend services, frontend UI, and integrations with modern tooling.
 
-I'm a passionate and detail-oriented developer with a B.Tech in Computer Science (2024).  
-Currently working as a **freelancer**, I help clients build scalable, efficient, and modern web applications using the latest technologies.
-
-From developing robust REST APIs in **Spring Boot** to building seamless frontend interfaces in **React**, **Next.js**, and **TypeScript**, I enjoy working across the full web stack.  
-I love exploring new technologies, contributing to real-world projects, and improving every single day.
+From scalable REST APIs in **Spring Boot** and **Node.js** to clean, responsive interfaces in **React** and **Next.js**, Syntactic focuses on reliability, performance, and developer experience.
 
 ---
 
-## 🧠 What I’m Currently Doing
+## 🧠 What This Project Does
 
-- 💼 Working with clients on freelance projects
-- 🔧 Building full-stack apps with **Java**, **Spring Boot**, **React**, **Next.js**, and **Supabase**
-- 🛡️ Exploring **authentication systems** with **Clerk**, JWT, and OAuth
-- 📘 Learning advanced concepts in **microservices** and **system design**
-- 🛠️ Improving backend performance and code architecture
-- ✨ Creating clean UI/UX using Tailwind CSS and Figma
+- 🌐 Provides ready-to-use **web solutions** (sites, dashboards, internal tools) for small and growing businesses.  
+- ⚙️ Offers a **SaaS-style architecture** with authentication, authorization, and multi-tenant-friendly patterns.[web:22]  
+- 📊 Includes reusable components for analytics, forms, and user management.
+- 🚀 Designed to be easily extendable for custom features per client/project.
 
 ---
 
-## 🧰 Tech Stack I Work With
+## 🧰 Tech Stack
 
 ### 🚀 Backend
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java)
@@ -33,7 +28,7 @@ I love exploring new technologies, contributing to real-world projects, and impr
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)[web:29]
 
 ### 🗃️ Database & Auth
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
@@ -48,19 +43,3 @@ I love exploring new technologies, contributing to real-world projects, and impr
 
 ---
 
-
-## 🌐 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/anshumanrana/](https://www.linkedin.com/in/anshuman-rana-9ab3631ab/])
-
-
----
-
-## 📝 Fun Facts
-
-- 🔎 Always curious to learn new backend technologies
-- ⚡ Dreaming of launching a product/startup
-- 💬 Ask me about Java, Spring Boot, or anything full-stack
-- ✉️ Feel free to reach out for collaboration or project work!
-
----
