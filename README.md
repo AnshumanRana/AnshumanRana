@@ -43,14 +43,3 @@ From scalable REST APIs in **Spring Boot** and **Node.js** to clean, responsive 
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
 
----
-
-## 🚀 Getting Started
-
-### Prerequisites
-
-- Node.js and npm/yarn installed.
-- Java (for Spring Boot backend, if applicable).
-- Access to your database (MongoDB/MySQL) and environment variables for Supabase/Clerk.
-
-npm install  # or mvn clean install / gradle build for Spring Boot
