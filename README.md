@@ -1,11 +1,11 @@
-# 🚀 Syntactic – Modern Web Solutions for Growing Businesses
+# 🚀 Logiquel – Modern Web Solutions for Growing Businesses
 
 <img src="https://avatars.githubusercontent.com/u/136254221?v=4" alt="Anshuman Rana" width="150" height="150" style="border-radius: 50%;"/>
 
-Syntactic is a SaaS-based **web solutions** platform co-founded by [Anshuman Rana](https://github.com/AnshumanRana), built to help individuals and businesses grow their online presence, streamline operations, and ship production-ready web apps faster.[file:1][web:22]  
-This repository contains the source code for the Syntactic web application, including backend services, frontend UI, and integrations with modern tooling.
+Logiquel is a SaaS-based **web solutions** platform co-founded by [Anshuman Rana](https://github.com/AnshumanRana), built to help individuals and businesses grow their online presence, streamline operations, and ship production-ready web apps faster.[file:1][web:22]  
+This repository contains the source code for the Logiquel web application, including backend services, frontend UI, and integrations with modern tooling.
 
-From scalable REST APIs in **Spring Boot** and **Node.js** to clean, responsive interfaces in **React** and **Next.js**, Syntactic focuses on reliability, performance, and developer experience.
+From scalable REST APIs in **Spring Boot** and **Node.js** to clean, responsive interfaces in **React** and **Next.js**, Logiquel focuses on reliability, performance, and developer experience.
 
 ---
 
