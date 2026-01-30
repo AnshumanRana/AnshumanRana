@@ -1,25 +1,27 @@
-# 🚀 Logiquel – Modern Web & Mobile Solutions for Growing Businesses
+
+# 🚀 Logiquel – My Web & Mobile Solutions for Growing Businesses
 
 <img src="https://avatars.githubusercontent.com/u/136254221?v=4" alt="Anshuman Rana" width="150" height="150" style="border-radius: 50%;"/>
 
-Logiquel is a SaaS-based **web and mobile solutions** platform co-founded by [Anshuman Rana](https://github.com/AnshumanRana), built to help individuals and businesses grow their online presence, streamline operations, and ship production-ready web apps faster. **We also provide app development for Android as well as iOS apps** – from native Kotlin/Android apps with seamless UI/UX to cross-platform iOS solutions using Swift or Kotlin Multiplatform for shared codebases and faster delivery.  
-This repository contains the source code for the Logiquel web application, including backend services, frontend UI, and integrations with modern tooling.
+**Hi, I'm Anshuman Rana** – founder of Logiquel, a SaaS-based platform I built to help individuals and businesses grow their online presence, streamline operations, and ship production-ready web & mobile apps faster. **I also provide app development for Android (using Kotlin/Java) as well as iOS apps** – creating native experiences with smooth UI/UX, push notifications, offline capabilities, and seamless API integrations, or cross-platform solutions with Kotlin Multiplatform for faster delivery across both platforms.
 
-From scalable REST APIs in **Spring Boot** and **Node.js** to clean, responsive interfaces in **React** and **Next.js**, Logiquel focuses on reliability, performance, and developer experience.
+This repository contains the source code for Logiquel – my full-stack web application with backend services, frontend UI, and modern tooling integrations.
 
-***
-
-## 🧠 What This Project Does
-
-- 🌐 Provides ready-to-use **web solutions** (sites, dashboards, internal tools) for small and growing businesses.  
-- 📱 Delivers **native and cross-platform mobile apps** for Android (Kotlin/Java) and iOS (Swift/KMP) with push notifications, offline support, and API integrations.
-- ⚙️ Offers a **SaaS-style architecture** with authentication, authorization, and multi-tenant-friendly patterns.  
-- 📊 Includes reusable components for analytics, forms, and user management.
-- 🚀 Designed to be easily extendable for custom features per client/project.
+From scalable REST APIs in **Spring Boot** and **Node.js** to clean, responsive interfaces in **React** and **Next.js**, I focus on reliability, performance, and exceptional developer experience.
 
 ***
 
-## 🧰 Tech Stack
+## 🧠 What Logiquel Does
+
+- 🌐 Ready-to-use **web solutions** (sites, dashboards, internal tools) for small businesses.
+- 📱 **Native & cross-platform mobile apps** for Android (Kotlin) and iOS (Swift/KMP) with real-world features like payments and analytics.
+- ⚙️ **SaaS architecture** with authentication, multi-tenancy, and scalable patterns.
+- 📊 Reusable components for forms, analytics, and user management.
+- 🚀 Easily extendable for your custom projects.
+
+***
+
+## 🧰 My Tech Stack
 
 ### 🚀 Backend
 
@@ -33,7 +35,7 @@ From scalable REST APIs in **Spring Boot** and **Node.js** to clean, responsive 
 
 
 
-### 📱 Mobile Apps
+### 📱 Mobile Development
 
 
 
@@ -45,11 +47,9 @@ From scalable REST APIs in **Spring Boot** and **Node.js** to clean, responsive 
 
 
 
-### 🧩 Tools & Platforms
-
-
+### 🛠️ Tools I Use
 
 
 ***
 
-Would you like me to add more details to the mobile section (like specific features or examples), adjust the badges, or tweak the wording for a different emphasis?
+Would you like to add your contact info, link to specific projects, or adjust any section to better reflect your personal brand?
