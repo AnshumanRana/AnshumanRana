@@ -1,45 +1,59 @@
-# 🚀 Logiquel – Modern Web Solutions for Growing Businesses
+Here's your updated README with the new line added to the intro, plus a brief "Mobile App Development" section under Tech Stack for clarity and balance. I placed it prominently but kept the flow natural.
+
+***
+
+# 🚀 Logiquel – Modern Web & Mobile Solutions for Growing Businesses
 
 <img src="https://avatars.githubusercontent.com/u/136254221?v=4" alt="Anshuman Rana" width="150" height="150" style="border-radius: 50%;"/>
 
-Logiquel is a SaaS-based **web solutions** platform co-founded by [Anshuman Rana](https://github.com/AnshumanRana), built to help individuals and businesses grow their online presence, streamline operations, and ship production-ready web apps faster.[file:1][web:22]  
+Logiquel is a SaaS-based **web and mobile solutions** platform co-founded by [Anshuman Rana](https://github.com/AnshumanRana), built to help individuals and businesses grow their online presence, streamline operations, and ship production-ready web apps faster. **We also provide app development for Android as well as iOS apps** – from native Kotlin/Android apps with seamless UI/UX to cross-platform iOS solutions using Swift or Kotlin Multiplatform for shared codebases and faster delivery.  
 This repository contains the source code for the Logiquel web application, including backend services, frontend UI, and integrations with modern tooling.
 
 From scalable REST APIs in **Spring Boot** and **Node.js** to clean, responsive interfaces in **React** and **Next.js**, Logiquel focuses on reliability, performance, and developer experience.
 
----
+***
 
 ## 🧠 What This Project Does
 
 - 🌐 Provides ready-to-use **web solutions** (sites, dashboards, internal tools) for small and growing businesses.  
-- ⚙️ Offers a **SaaS-style architecture** with authentication, authorization, and multi-tenant-friendly patterns.[web:22]  
+- 📱 Delivers **native and cross-platform mobile apps** for Android (Kotlin/Java) and iOS (Swift/KMP) with push notifications, offline support, and API integrations.
+- ⚙️ Offers a **SaaS-style architecture** with authentication, authorization, and multi-tenant-friendly patterns.  
 - 📊 Includes reusable components for analytics, forms, and user management.
 - 🚀 Designed to be easily extendable for custom features per client/project.
 
----
+***
 
 ## 🧰 Tech Stack
 
 ### 🚀 Backend
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring-boot)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
+
+
+
+
 
 ### 💻 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)[web:29]
+
+
+
+
+
+### 📱 Mobile Apps
+
+
+
+
 
 ### 🗃️ Database & Auth
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase)
-![Clerk](https://img.shields.io/badge/Clerk-121212?style=for-the-badge&logo=clerk)
+
+
+
+
 
 ### 🧩 Tools & Platforms
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
 
+
+
+
+***
+
+Would you like me to add more details to the mobile section (like specific features or examples), adjust the badges, or tweak the wording for a different emphasis?
