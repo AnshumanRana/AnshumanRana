@@ -1,7 +1,3 @@
-Here's your updated README with the new line added to the intro, plus a brief "Mobile App Development" section under Tech Stack for clarity and balance. I placed it prominently but kept the flow natural.
-
-***
-
 # 🚀 Logiquel – Modern Web & Mobile Solutions for Growing Businesses
 
 <img src="https://avatars.githubusercontent.com/u/136254221?v=4" alt="Anshuman Rana" width="150" height="150" style="border-radius: 50%;"/>
