@@ -24,15 +24,7 @@ From scalable REST APIs in **Spring Boot** and **Node.js** to clean, responsive 
 
 ### 🚀 Backend
 
-
-
-
-
 ### 💻 Frontend
-
-
-
-
 
 ### 📱 Mobile Development
 
