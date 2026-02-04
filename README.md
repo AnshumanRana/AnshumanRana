@@ -28,12 +28,12 @@ From scalable REST APIs in **Spring Boot** and **Node.js** to clean, responsive 
 
 ### 📱 Mobile Development
 
-
-
-
-
 ### 🗃️ Database & Auth
 
+**📞 Ready to Build Something Amazing?**
+If you'd like to discuss your project, explore custom solutions, or get a free consultation, please contact me at hello@logiquel.com.
+
+Let's turn your ideas into production-ready apps that scale with your business!
 
 
 
