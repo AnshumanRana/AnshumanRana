@@ -1,9 +1,9 @@
 
-# 🚀 Logiquel – My Web & Mobile Solutions for Growing Businesses
+ My Web & Mobile Solutions for Growing Businesses
 
 
 
-**Hi, I'm Anshuman Rana** – co-founder of Logiquel, a SaaS-based agency I and my co-founders built to help individuals and businesses grow their online presence, streamline operations, and ship production-ready web & mobile apps faster. **I also provide app development for Android (using Kotlin/Java) as well as iOS apps** – creating native experiences with smooth UI/UX, push notifications, offline capabilities, and seamless API integrations, or cross-platform solutions with Kotlin Multiplatform for faster delivery across both platforms.
+**Hi, I'm Anshuman Rana** – a SaaS-based agency I and my co-founders built to help individuals and businesses grow their online presence, streamline operations, and ship production-ready web & mobile apps faster. **I also provide app development for Android (using Kotlin/Java) as well as iOS apps** – creating native experiences with smooth UI/UX, push notifications, offline capabilities, and seamless API integrations, or cross-platform solutions with Kotlin Multiplatform for faster delivery across both platforms.
 
 
 From scalable REST APIs in **Spring Boot** and **Node.js** to clean, responsive interfaces in **React** and **Next.js**, I focus on reliability, performance, and exceptional developer experience.
